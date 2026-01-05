@@ -45,4 +45,4 @@
   await page.getByRole('button', { name: 'Share' }).click();
 });
 
-test('Another Test Create A Job', async ({ page }) =>{ });
+test('New Test Create A Job', async ({ page }) =>{ });
